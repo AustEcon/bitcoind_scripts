@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# To anyone else using these scripts - you'll have to change the username (I can't get $USER to work!)
+
+cd /home/austecon/.bitcoin
+rm -r regtest
